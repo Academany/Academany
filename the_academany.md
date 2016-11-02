@@ -1,5 +1,7 @@
 # The Academany
 
+![](../img/academany.png)   
+
 While we are trying to think and act globally, and to improve living situations for people all over the globe, the number of students that can effectively be trained by people doing cutting edge research and development is limited because of geographic, financial, and spatial reasons.
 
 
