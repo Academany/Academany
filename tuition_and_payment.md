@@ -70,7 +70,7 @@ If the student paid part or the totality of the Program’s tuition fees prior t
 IMPORTANT: to be subject to refund, the student must give proper justification of the reason for withdrawal.
 
 
- ### 2.2.3 Withdrawal Programs after official beginning of class period
+### 2.2.3 Withdrawal Programs after official beginning of class period
  There is no refund of any kind after the official beginning of classes.
 
 
@@ -93,6 +93,22 @@ Prospective students interested in enrolling in Fab Academy must fill an online 
 Enrollment Period: December to mid-January
 A prospective student that has received an Acceptance Letter to Fab Academy must pay the tuition deposit (1.1) to become enrolled in the same. Only then, the student can start classes.
 
+Graduation: August
+Students that pass all the evaluation stages are receiving a Diploma. Graduation ceremony takes place  during the annual Fab Conferences, usually during the month of August.
 
 
-more coming soon.
+## 3.2 Bio Academy
+
+
+Application & Enrollment: coming soon
+Classes: late August to mid-January
+Evaluation: coming soon
+Graduation: August
+
+
+## 4. Continuing Students
+
+
+Students that have enrolled and started the program, but were unable to finish it in the natural terms of it (3.1 and 3.2), may finish the program later on, see guidelines below for more information.
+
+![](img/cont_students.png)
