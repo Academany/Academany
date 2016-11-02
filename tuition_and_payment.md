@@ -111,4 +111,4 @@ Graduation: August
 
 Students that have enrolled and started the program, but were unable to finish it in the natural terms of it (3.1 and 3.2), may finish the program later on, see guidelines below for more information.
 
-![](img/cont_students.png)
+![](../img/cont_students.png)
