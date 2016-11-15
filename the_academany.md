@@ -1,8 +1,6 @@
-# The Academany
-
 ![](../img/academany.png)   
 
-While we are trying to think and act globally, and to improve living situations for people all over the globe, the number of students that can effectively be trained by people doing cutting edge research and development is limited because of geographic, financial, and spatial reasons.
+While we are working on thinking and acting globally, and to improve living situations for people all over the globe, the number of students that can effectively be trained by people doing cutting edge research and development is limited because of geographic, financial, and spatial reasons.
 
 
 With the increasing availability and ease of use of digital tools and systems, both in the world of fabrication, biology and design, the possibility to solve problems locally is becoming greater every day. But it is often overlooked that the tools and means to build objects destined for everyday use, or to safely use synthetic biology to locally produce energy or medicine, is not at all easy or trivial.
