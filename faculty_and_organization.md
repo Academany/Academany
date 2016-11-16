@@ -9,6 +9,8 @@ Fiore Basile - Infrastructure and IT
 
 ## Fab Academy
 
+Neil Gershenfeld - Director
+
 ## Bio Academy
 
 George Church (Harvard) - Director   
@@ -36,4 +38,4 @@ Nadya Peek - Director
 
 ## Soft Academy
 
-Anastasia Pistofidou - Director 
+Anastasia Pistofidou - Director
