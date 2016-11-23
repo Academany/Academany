@@ -3,9 +3,7 @@
 ## Academany core organization
 
 Neil Gershenfeld - Founder and Director   
-Jean-michel Molenaar - General Manager   
-Luciana Asinari - Communications and Students   
-Fiore Basile - Infrastructure and IT   
+Global organization - distributed
 
 ## Fab Academy
 
